@@ -10,11 +10,11 @@ A simple news viewing interface
 - Used API
   - [NewsAPI](https://newsapi.org/)
 
-Install dependencies\
+Install dependencies
 
-`npm i`\
-\
-Build the project\
+`npm i`
+
+Build the project
 
 `npm start`
 
