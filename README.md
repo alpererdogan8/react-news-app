@@ -2,6 +2,9 @@
 
 A simple news viewing interface
 
+>#### Note
+> To run the project, register News.api and paste the key given to you in the .env folder.
+
 - Used Libraries
   - [Chakra UI](https://chakra-ui.com/)
   - [Keen-Slider](https://keen-slider.io/)
